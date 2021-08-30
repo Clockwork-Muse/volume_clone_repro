@@ -8,7 +8,7 @@
 	"workspaceFolder": "/home/vscode/workspace",
 	"workspaceMount": "source=some_container_workspace,target=${containerWorkspaceFolder}",
 	
-	"remoteUser": "baker",
+	"remoteUser": "vscode",
 
 	"mounts": [
 		"source=some_container_dev_vscode_server,target=/home/vscode/.vscode-server/",
